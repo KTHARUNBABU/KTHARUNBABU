@@ -73,6 +73,23 @@ I am passionate about transforming raw data into meaningful insights and creatin
 
 ---
 
+## 🏆 Certifications
+
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Certified-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
+
+![Deloitte](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-86BC25?style=for-the-badge\&logo=deloitte\&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Development-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 📜 Certification Highlights
+
+* Google Analytics Certification
+* Deloitte Data Analytics Job Simulation (Forage)
+* Power BI Dashboard Development
+* Python for Data Analysis & Visualization
+
 
 ## 🤝 Connect With Me
 
