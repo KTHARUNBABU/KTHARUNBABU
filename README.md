@@ -73,14 +73,6 @@ I am passionate about transforming raw data into meaningful insights and creatin
 
 ---
 
-### 🌐 Personal Portfolio Website
-
-**Tools:** React, JavaScript, HTML, CSS
-
-* Developed a responsive portfolio website to showcase projects and skills.
-* Implemented modern UI design and smooth user experience.
-* Integrated project showcases and professional contact information.
-
 
 ## 🤝 Connect With Me
 
