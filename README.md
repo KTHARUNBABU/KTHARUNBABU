@@ -41,25 +41,66 @@ I am passionate about transforming raw data into meaningful insights and creatin
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 📊 Sales Performance Dashboard
 
-Power BI dashboard analyzing sales trends, KPIs, and business performance.
+**Tools:** Power BI, Excel
+
+* Developed an interactive dashboard to monitor sales KPIs and business performance.
+* Analyzed revenue trends, product performance, and regional sales metrics.
+* Created dynamic visualizations to support data-driven decision-making.
+
+---
 
 ### 🛒 E-Commerce Data Analysis
 
-Performed data cleaning, visualization, and insights generation using Python and Pandas.
+**Tools:** Python, Pandas, NumPy, Matplotlib
+
+* Performed data cleaning, transformation, and exploratory data analysis (EDA).
+* Identified customer purchasing patterns and key business insights.
+* Built visualizations to communicate findings effectively.
+
+---
 
 ### 📈 Customer Insights Dashboard
 
-Interactive Power BI dashboard to analyze customer behavior and business metrics.
+**Tools:** Power BI, SQL, Excel
 
-## 🌐 Let's Connect
+* Designed an interactive dashboard to analyze customer behavior and engagement.
+* Tracked customer segmentation, retention, and performance metrics.
+* Delivered actionable insights through intuitive visual reports.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kondreddy%20Tharun%20Babu-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kondreddy-tharun-babu-499123343)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-KTHARUNBABU-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KTHARUNBABU)
+### 🌐 Personal Portfolio Website
+
+**Tools:** React, JavaScript, HTML, CSS
+
+* Developed a responsive portfolio website to showcase projects and skills.
+* Implemented modern UI design and smooth user experience.
+* Integrated project showcases and professional contact information.
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kondreddy-tharun-babu-499123343">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tharunbabuk5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/KTHARUNBABU">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KTHARUNBABU&style=for-the-badge" />
+</p>
 
 
 
