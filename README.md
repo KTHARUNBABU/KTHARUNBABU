@@ -61,7 +61,7 @@ Interactive Power BI dashboard to analyze customer behavior and business metrics
 
 [![GitHub](https://img.shields.io/badge/GitHub-KTHARUNBABU-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/KTHARUNBABU)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=KTHARUNBABU\&style=for-the-badge)](https://github.com/KTHARUNBABU)
+
 
 
 ## 📊 GitHub Stats
