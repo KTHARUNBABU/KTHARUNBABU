@@ -11,6 +11,7 @@ I am passionate about transforming raw data into meaningful insights and creatin
 * 📈 Creating dashboards using Power BI
 * 🌱 Currently learning SQL and Advanced Analytics
 * 💼 Looking for opportunities in Data Analytics and Business Intelligence
+* 🌐 Portfolio: View My Portfolio my-portfolio-sooty-one-97.vercel.app
 
 ## 🛠️ Skills
 
