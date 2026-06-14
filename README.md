@@ -11,6 +11,8 @@ I am passionate about transforming raw data into meaningful insights and creatin
 * 📈 Creating dashboards using Power BI
 * 🌱 Currently learning SQL and Advanced Analytics
 * 💼 Looking for opportunities in Data Analytics and Business Intelligence
+* 🌐 Portfolio: https://my-portfolio-sooty-one-97.vercel.app
+
 
 ## 🛠️ Skills
 
@@ -94,6 +96,11 @@ I am passionate about transforming raw data into meaningful insights and creatin
 ## 🤝 Connect With Me
 
 <p align="center">
+
+  <a href="https://my-portfolio-sooty-one-97.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-FF7139?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/kondreddy-tharun-babu-499123343">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -105,10 +112,7 @@ I am passionate about transforming raw data into meaningful insights and creatin
   <a href="https://github.com/KTHARUNBABU">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KTHARUNBABU&style=for-the-badge" />
 </p>
 
 
